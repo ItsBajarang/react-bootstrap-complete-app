@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap-complete-app/static/css/main.d7084c92.chunk.css",
+    "main.js": "/react-bootstrap-complete-app/static/js/main.332615f7.chunk.js",
+    "main.js.map": "/react-bootstrap-complete-app/static/js/main.332615f7.chunk.js.map",
+    "runtime-main.js": "/react-bootstrap-complete-app/static/js/runtime-main.c9b09e1c.js",
+    "runtime-main.js.map": "/react-bootstrap-complete-app/static/js/runtime-main.c9b09e1c.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/react-bootstrap-complete-app/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.e9736cb3.chunk.js": "/react-bootstrap-complete-app/static/js/2.e9736cb3.chunk.js",
+    "static/js/2.e9736cb3.chunk.js.map": "/react-bootstrap-complete-app/static/js/2.e9736cb3.chunk.js.map",
+    "index.html": "/react-bootstrap-complete-app/index.html",
+    "precache-manifest.516e853a00bc2693a2f878d11a2190fe.js": "/react-bootstrap-complete-app/precache-manifest.516e853a00bc2693a2f878d11a2190fe.js",
+    "service-worker.js": "/react-bootstrap-complete-app/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/react-bootstrap-complete-app/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.d7084c92.chunk.css.map": "/react-bootstrap-complete-app/static/css/main.d7084c92.chunk.css.map",
+    "static/js/2.e9736cb3.chunk.js.LICENSE.txt": "/react-bootstrap-complete-app/static/js/2.e9736cb3.chunk.js.LICENSE.txt",
+    "static/media/android.svg": "/react-bootstrap-complete-app/static/media/android.488a1443.svg",
+    "static/media/flag.svg": "/react-bootstrap-complete-app/static/media/flag.b3727bbd.svg",
+    "static/media/global-network.svg": "/react-bootstrap-complete-app/static/media/global-network.0716aba5.svg",
+    "static/media/mobile-app.svg": "/react-bootstrap-complete-app/static/media/mobile-app.e9a248b4.svg",
+    "static/media/network.svg": "/react-bootstrap-complete-app/static/media/network.71a7fc7d.svg",
+    "static/media/python.svg": "/react-bootstrap-complete-app/static/media/python.e2f7de8b.svg",
+    "static/media/react.svg": "/react-bootstrap-complete-app/static/media/react.eab76719.svg",
+    "static/media/search.svg": "/react-bootstrap-complete-app/static/media/search.dde8bff3.svg",
+    "static/media/youtube.svg": "/react-bootstrap-complete-app/static/media/youtube.66fe6374.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9b09e1c.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.e9736cb3.chunk.js",
+    "static/css/main.d7084c92.chunk.css",
+    "static/js/main.332615f7.chunk.js"
+  ]
+}
